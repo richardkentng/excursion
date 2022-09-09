@@ -6,11 +6,36 @@ body {
 }
 
 h1 {
-  font-weight: 200;
   font-size: 50px;
+  font-weight: normal;
+  margin-top: 100px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.gray-statement {
+  color: gray;
+  font-size: 21px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.phone-icon {
+  margin-top: 30px;
 }
 
 .link {
   color: aquamarine;
   font-size: 16px;
+}
+
+.copyright-statement {
+  color: gray;
+  font-size: 21px;
+  text-align: right;
 }
